@@ -15,3 +15,5 @@
 2.可以发送邮件找回密码
 
 3.保存到数据库的密码加密
+
+4.前台登陆js部分来自https://github.com/yeild/jigsaw
