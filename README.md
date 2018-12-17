@@ -6,7 +6,7 @@
 
 2.登陆后可以修改编辑自己的信息
 
-3.可以打印已保存的信息
+3.可以打印已保存的信息 
 
 4.后台使用jqPaginator分页，JqureySession，Myxls打印
 # 项目功能
@@ -16,4 +16,4 @@
 
 3.保存到数据库的密码加密
 
-4.前台登陆js部分来自https://github.com/yeild/jigsaw
+4.前台登陆js滑动验证部分来自https://github.com/yeild/jigsaw
